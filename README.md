@@ -4,7 +4,7 @@
 
 1. Clone repository
    ```sh
-   git clone git@gitlab.com:apernet/stores/lambdas/aper.usertracking.git
+   git clone git@github.com:Alaneta/PaymentCalculator.git
    ```
 2. Enter data sets in entries.txt file. The application has initially 5 sets of data as an example. Please follow the
    same format to enter new data
